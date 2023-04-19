@@ -81,7 +81,7 @@ Write-Host "27.Disable Real-Time Protection"
 Write-Host "28.Disable Firewall"
 Write-Host "29.Disable Windows Defender"
 Write-Host "30.Exit"
-$choice = Read-Host "Enter your choice"
+$choice = Read-Host "Choose a number"
 
 
 if ($choice -eq "1"){
